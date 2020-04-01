@@ -1,9 +1,9 @@
 var plugins = [{
-      plugin: require('/home/subramanyam/Desktop/myWebPortal/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/home/subramanyam/Desktop/gatsBy/myWebPortal/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/home/subramanyam/Desktop/myWebPortal/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"gatsby-tailwind-boilerplate","short_name":"starter","start_url":"/","background_color":"#ffffff","theme_color":"#007FFF","display":"browser","icon":"./src/assets/favicon.svg"},
+      plugin: require('/home/subramanyam/Desktop/gatsBy/myWebPortal/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      options: {"plugins":[],"name":"gatsby-tailwind-boilerplate","short_name":"starter","start_url":"/","background_color":"#ffffff","theme_color":"#007FFF","display":"browser","icon":"./src/assets/myprofile.png"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

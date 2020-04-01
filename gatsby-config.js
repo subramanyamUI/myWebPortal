@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Tailwind Boilerplate`,
+    title: `subramanyam@dev`,
     description: `Boilerplate for projects with TailwindCSS and GatsbyJS`,
     author: `@wirtzdan`
   },
@@ -15,7 +15,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#007FFF`,
         display: `browser`,
-        icon: `./src/assets/favicon.svg`
+        icon: `./src/assets/myprofile.png`
       }
     },
     `gatsby-plugin-postcss`,
@@ -25,6 +25,13 @@ module.exports = {
         tailwind: true,
         purgeOnly: [`src/css/style.css`]
       }
+    },
+    {
+      resolve: `gatsby-plugin-sass`,
+      options: {
+        // Configure SASS to process Tailwind
+        postCssPlugins: [require('tailwindcss')],
+      },
     }
   ]
 };
