@@ -7,16 +7,16 @@ Here's a list of things I currently keep myself busy with:
 - 👩🏻‍💻 Working as a full stack developer using [Reactjs](https://reactjs.org/) and [Nodejs](https://nodejs.dev/)
 - ☀️ Creating **[tailwind components](https://tailwind-next.now.sh/)**, an open-source project I created (feel free to contribute, this is beginner friendly!)
 - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/subramanyam_dev)**.
-- 🛠 Getting myself into JAMStack. Trying out [11ty](https://www.11ty.dev/) and [Nuxt.js](https://nuxtjs.org/) in my spare time.
+- 🛠 Getting myself into JAMStack. Trying out [GatsBy](https://www.gatsbyjs.org/) and [Nuxt.js](https://nextjs.org/) in my spare time.
 
 <details>
   <summary>Some other facts about me-e-e</summary>
   <br>
   <p><i>Siri play ME! by Taylor Swift ft. Brendon Urie 🎶</i><p>
 
-  - I post random photos and trip snippets at **[VSCO](https://vsco.co/jayehernandez)**. (Look at the Journal's tab!)
-  - My go to jam when coding: musicals. Non-stop. ⭐️
-  - I absolutely adore Eevee, the best Pokemon.
+  - I am technology enthusiast.always looking into crazy new techs.
+  - In free contributing to open source projects. ⭐️
+  - I have good exposure in createing robust web applications for client.**[Rackspcae, AbInBev, Tesco]**.
   
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=subramanyamUI&show_icons=true)
