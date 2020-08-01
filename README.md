@@ -16,7 +16,7 @@ Here's a list of things I currently keep myself busy with:
 
   - I am technology enthusiast.always looking into crazy new techs.
   - In free contributing to open source projects. ⭐️
-  - I have good exposure in createing robust web applications for client. i.e**:Rackspcae, AbInBev, Tesco**.
+  - I have good exposure in createing robust web applications for client. i.e: **Rackspcae, ABInBev, Tesco**.
   
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=subramanyamUI&show_icons=true)
