@@ -4,9 +4,9 @@ I like experimenting with new technologies, building small projects, and occassi
 
 Here's a list of things I currently keep myself busy with:
 
-- 👩🏻‍💻 Working as a full stack developer over at **[BeautyMnl](https://beautymnl.com)** using [Ruby on Rails](https://rubyonrails.org/) and [Vue.js](https://vuejs.org/)
-- ☀️ Maintaining **[Letra](https://github.com/jayehernandez/letra-extension)**, an open-source project I created (feel free to contribute, this is beginner friendly!)
-- ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/jayehernandez)**.
+- 👩🏻‍💻 Working as a full stack developer using [Reactjs](https://reactjs.org/) and [Nodejs](https://nodejs.dev/)
+- ☀️ Creating **[tailwind components](https://tailwind-next.now.sh/)**, an open-source project I created (feel free to contribute, this is beginner friendly!)
+- ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/subramanyam_dev)**.
 - 🛠 Getting myself into JAMStack. Trying out [11ty](https://www.11ty.dev/) and [Nuxt.js](https://nuxtjs.org/) in my spare time.
 
 <details>
@@ -29,7 +29,7 @@ Here's a list of things I currently keep myself busy with:
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://twitter.com/jayehernandez_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://twitter.com/subramanyam_dev" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
