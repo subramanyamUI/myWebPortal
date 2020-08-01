@@ -16,7 +16,7 @@ Here's a list of things I currently keep myself busy with:
 
   - I am technology enthusiast.always looking into crazy new techs.
   - In free contributing to open source projects. ⭐️
-  - I have good exposure in createing robust web applications for client.**[Rackspcae, AbInBev, Tesco]**.
+  - I have good exposure in createing robust web applications for client. i.e**:Rackspcae, AbInBev, Tesco**.
   
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=subramanyamUI&show_icons=true)
@@ -30,7 +30,7 @@ Here's a list of things I currently keep myself busy with:
 
   <p align="center">
     <a href="https://twitter.com/subramanyam_dev" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="www.linkedin.com/in/subramanyamDev/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
