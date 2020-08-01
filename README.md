@@ -32,11 +32,7 @@ Here's a list of things I currently keep myself busy with:
     <a href="https://twitter.com/subramanyam_dev" alt="Twitter"><img src="./readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/subramanyamdev/" alt="Linkedin"><img src="./readme/linkedin-fill.svg"></a>
     <a href="mailto:subramanyam1105@gmail.com" alt="Contact me"><img src="./readme/mail-fill.svg"></a>
-    <a href="https://github.com/subramanyamUI/myWebPortal/edit/master/README.md" alt="My site"><img src="./readme/external-link-line.svg"></a>
-  </p>
-
-  <p align="center">
-    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=jayehernandez.visitor-badge">
+    <a href="https://github.com/subramanyamUI/myWebPortal/blob/master/README.md" alt="My site"><img src="./readme/external-link-line.svg"></a>
   </p>
 </p>
 
