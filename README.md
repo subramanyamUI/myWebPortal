@@ -4,7 +4,7 @@ I like experimenting with new technologies, building small projects, and occassi
 
 Here's a list of things I currently keep myself busy with:
 
-- 👩🏻‍💻 Working as a full stack developer using [Reactjs](https://reactjs.org/) and [Nodejs](https://nodejs.dev/)
+- 👩🏻‍💻 Working as a full stack developer using [React js](https://reactjs.org/) and [Node js](https://nodejs.dev/)
 - ☀️ Creating **[tailwind components](https://tailwind-next.now.sh/)**, an open-source project I created (feel free to contribute, this is beginner friendly!)
 - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/subramanyam_dev)**.
 - 🛠 Getting myself into JAMStack. Trying out [GatsBy](https://www.gatsbyjs.org/) and [Nuxt.js](https://nextjs.org/) in my spare time.
