@@ -40,4 +40,4 @@ Here's a list of things I currently keep myself busy with:
   </p>
 </p>
 
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
+<img src="./readme/bottom.svg" alt="bottom">
