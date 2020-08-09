@@ -16,7 +16,7 @@ Here's a list of things I currently keep myself busy with:
 
   - I am technology enthusiast.always looking into crazy new techs.
   - In free contributing to open source projects. ⭐️
-  - I have good exposure in createing robust web applications for client. i.e**:Rackspcae, AbInBev, Tesco**.
+  - I have good exposure in createing robust web applications for client. i.e: **Rackspcae, ABInBev, Tesco**.
   
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=subramanyamUI&show_icons=true)
@@ -29,15 +29,11 @@ Here's a list of things I currently keep myself busy with:
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://twitter.com/subramanyam_dev" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/subramanyamdev/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:subramanyam1105@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
-  </p>
-
-  <p align="center">
-    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=jayehernandez.visitor-badge">
+    <a href="https://twitter.com/subramanyam_dev" alt="Twitter"><img src="./readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/subramanyamdev/" alt="Linkedin"><img src="./readme/linkedin-fill.svg"></a>
+    <a href="mailto:subramanyam1105@gmail.com" alt="Contact me"><img src="./readme/mail-fill.svg"></a>
+    <a href="https://github.com/subramanyamUI/myWebPortal/blob/master/README.md" alt="My site"><img src="./readme/external-link-line.svg"></a>
   </p>
 </p>
 
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
+<img src="./readme/bottom.svg" alt="bottom">
